@@ -1,5 +1,6 @@
 {
   "name": "to-doapp",
+  "homepage": "https://Milan-Niraula.github.io/my-todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
